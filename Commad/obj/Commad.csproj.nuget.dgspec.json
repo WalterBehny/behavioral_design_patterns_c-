@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NOJEDA\\source\\repos\\Commad\\Commad\\Commad.csproj": {}
+    "C:\\Users\\NOJEDA\\Documents\\GitHub\\behavioral_design_patterns_c-\\Commad\\Commad.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NOJEDA\\source\\repos\\Commad\\Commad\\Commad.csproj": {
+    "C:\\Users\\NOJEDA\\Documents\\GitHub\\behavioral_design_patterns_c-\\Commad\\Commad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NOJEDA\\source\\repos\\Commad\\Commad\\Commad.csproj",
+        "projectUniqueName": "C:\\Users\\NOJEDA\\Documents\\GitHub\\behavioral_design_patterns_c-\\Commad\\Commad.csproj",
         "projectName": "Commad",
-        "projectPath": "C:\\Users\\NOJEDA\\source\\repos\\Commad\\Commad\\Commad.csproj",
+        "projectPath": "C:\\Users\\NOJEDA\\Documents\\GitHub\\behavioral_design_patterns_c-\\Commad\\Commad.csproj",
         "packagesPath": "C:\\Users\\NOJEDA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NOJEDA\\source\\repos\\Commad\\Commad\\obj\\",
+        "outputPath": "C:\\Users\\NOJEDA\\Documents\\GitHub\\behavioral_design_patterns_c-\\Commad\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NOJEDA\\AppData\\Roaming\\NuGet\\NuGet.Config",
